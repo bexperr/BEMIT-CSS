@@ -1,0 +1,28 @@
+https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
+https://codepen.io/animaticss/pen/yLNRZxG
+
+
+o- objetos
+
+c- componentes
+
+u- utilidades
+
+is- o has- para determinar un estado
+
+js- para referencias un nodo que interactua con javascript
+
+t- para un tema de estilos determinado
+    ejemplo:
+    * t-dark
+    * t-light
+
+s- para contextos y alcance de ambito (scope)
+    * s-cms-content
+    * s-about
+
+qa- para testing de control de calidad
+
+_ para hacks
+
+
